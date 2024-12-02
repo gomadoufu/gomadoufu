@@ -1,6 +1,8 @@
   ```rust
 Gomadoufu(
     rustacean: true,
+    what_is_this_format_referring_to: "ron",
+
     portfolio: (url:" bit.ly/gomadoufu-portfolio "),
     language: {
         natural: {
