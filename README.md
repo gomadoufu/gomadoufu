@@ -2,8 +2,8 @@
 Gomadoufu(
     rustacean: true,
     format_referring_to: "ron",
-
     portfolio: (url:" bit.ly/gomadoufu-portfolio "),
+
     language: {
         natural: {
             japanese: (level: Native),
@@ -17,6 +17,7 @@ Gomadoufu(
     },
     os: [Mac, Linux],
     mcu: [Arduino, ESP32],
+
     curiosity: {
         technology: ["low level programming", "backend development", "machine learning"],
         art: ["modern art", "digital art"],
