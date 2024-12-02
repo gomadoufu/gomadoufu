@@ -1,7 +1,7 @@
   ```rust
 Gomadoufu(
     rustacean: true,
-    portfolio: (url:" https://bit.ly/gomadoufu-portfolio "),
+    portfolio: (url:" bit.ly/gomadoufu-portfolio "),
     language: {
         natural: {
             japanese: (level: Native),
