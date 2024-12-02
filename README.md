@@ -2,6 +2,8 @@
 Gomadoufu(
     rustacean: true,
     format_referring_to: "ron",
+
+    student: (true, "Master's degree in Engeneering (information media)"),
     portfolio: (url:" bit.ly/gomadoufu-portfolio "),
 
     language: {
@@ -15,8 +17,10 @@ Gomadoufu(
             tinkering: [Haskell, Erlang, Verilog, Asm],
         }
     },
-    os: [Mac, Linux],
-    mcu: [Arduino, ESP32],
+    tools: {
+        os: [Mac, Linux],
+        mcu: [Arduino, ESP32],
+    },
 
     curiosity: {
         technology: ["low level programming", "backend development", "machine learning"],
