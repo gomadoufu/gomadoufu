@@ -3,8 +3,8 @@ Gomadoufu(
     rustacean: true,
     format_referring_to: "ron",
 
-    student: (true, "Master's degree in Engeneering (information media)"),
-    portfolio: (url:" bit.ly/gomadoufu-portfolio "),
+    student: (true, "Master's degree in Engeneering (information media)🎓"),
+    portfolio: (url:" bit.ly/gomadoufu-portfolio 📃"),
 
     language: {
         natural: {
@@ -12,20 +12,20 @@ Gomadoufu(
             english: (level: Daily),
         },
         programming: {
-            main: [Rust, Go, C++, C],
+            main: [Rust🦀, Go, C++, C],
             sub: [Python, Java, TypeScript],
             tinkering: [Haskell, Erlang, Verilog, Asm],
         }
     },
     tools: {
-        os: [Mac, Linux],
+        os: [Mac🍎, Linux],
         mcu: [Arduino, ESP32],
     },
 
     curiosity: {
         technology: ["low level programming", "backend development", "machine learning"],
         art: ["modern art", "digital art"],
-        music: ["dance", "electronic", "botanical"],
+        music: ["dance", "electronic", "botanica🪴"],
         research: ["human computer interaction", "IoT", "philosophy", "psychology", "sociology", "linguistics"],
     },
 )
