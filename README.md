@@ -10,6 +10,7 @@ Gomadoufu(
         programming: {
             main: [Rust, Go, C++, C],
             sub: [Python, Java, TypeScript],
+            tinkering: [Haskell, Erlang, Verilog, Asm],
         }
     },
     os: [Mac, Linux],
