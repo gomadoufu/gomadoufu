@@ -3,7 +3,7 @@ Gomadoufu(
     rustacean: true,
     format_referring_to: "ron",
 
-    student: (true, "Master's degree in Engeneering (information media)🎓"),
+    student: (true, " Master's degree in Engeneering (information media)🎓 "),
     portfolio: (url:" bit.ly/gomadoufu-portfolio 📃"),
 
     language: {
