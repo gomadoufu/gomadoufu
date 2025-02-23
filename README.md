@@ -35,7 +35,7 @@ Gomadoufu(
 <table>
   <tr>
     <td>
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomadoufu&exclude_repo=research-VolP,get-programming-with-hs,intel-fpga-book&hide=Makefile,Cmake,html,css,scss&layout=compact&show_icons=true&theme=shades-of-purple" />
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomadoufu&exclude_repo=research-VolP,get-programming-with-hs,intel-fpga-book,book-os-12step-c&hide=Makefile,Cmake,html,css,scss&layout=compact&show_icons=true&theme=shades-of-purple" />
     </td>
     <td>
       <img alt="icons" src="https://skillicons.dev/icons?i=rust,go,cpp,c,python,typescript&perline=3" />
