@@ -14,7 +14,7 @@ Gomadoufu(
         programming: {
             main: [Rust🦀, Go, C++, C],
             sub: [Python, Java, TypeScript],
-            tinkering: [Haskell, Erlang, Verilog, Asm],
+            tinkering: [Common Lisp, Haskell, Erlang, Verilog, Asm],
         }
     },
     tools: {
@@ -26,7 +26,7 @@ Gomadoufu(
         technology: ["low level programming", "backend development", "machine learning"],
         art: ["modern art", "digital art"],
         music: ["dance", "electronic", "botanica🪴"],
-        research: ["human computer interaction", "IoT", "philosophy", "psychology", "sociology", "linguistics"],
+        research: ["human computer interaction", "IoT"],
     },
 )
 
