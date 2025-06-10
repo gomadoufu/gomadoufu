@@ -19,6 +19,7 @@ Gomadoufu(
     },
     tools: {
         os: [Mac🍎, Linux],
+        editor: Emacs,
         mcu: [Arduino, ESP32],
     },
 
